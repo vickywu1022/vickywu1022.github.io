@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "SISTor Workshop: Algorithm and Data Structure"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Workshop"
+permalink: /teaching/2022-fall-2
+venue: "ShanghaiTech University, School of Information Science and Technology"
+date: 2022
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lecturer of [SISTor Workshop](https://github.com/vickywu1022/SISTor-Workshop-2022) in Fall 2022.
 
-Heading 1
+Target
 ======
+- Assist students preparing for the postgraduate entrance examination of 991 Data Structures and Algorithms.
+- Review the undergraduate course CS101: Algorithm nad Data Structure at ShanghaiTech University.
 
-Heading 2
+Duties
 ======
-
-Heading 3
-======
+- I held bi-weekly review workshops based on the exam outline, covering explanations of key concepts and practice with past exam questions.
+- I conducted online Q&A sessions during spare time.
