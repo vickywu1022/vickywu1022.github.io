@@ -2,9 +2,9 @@
 title: "Computer Architecture I"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2022-spring-1
+permalink: /teaching/2022-spring-teaching-1
 venue: "ShanghaiTech University, School of Information Science and Technology"
-date: 2022
+date: 2022-03-01
 location: "Shanghai, China"
 ---
 

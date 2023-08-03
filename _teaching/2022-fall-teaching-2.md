@@ -2,9 +2,9 @@
 title: "SISTor Workshop: Algorithm and Data Structure"
 collection: teaching
 type: "Undergraduate Workshop"
-permalink: /teaching/2022-fall-2
+permalink: /teaching/2022-fall-teaching-2
 venue: "ShanghaiTech University, School of Information Science and Technology"
-date: 2022
+date: 2022-10-01
 location: "Shanghai, China"
 ---
 
