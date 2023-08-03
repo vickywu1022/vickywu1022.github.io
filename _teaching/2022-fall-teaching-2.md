@@ -8,7 +8,9 @@ date: 2022-10-01
 location: "Shanghai, China"
 ---
 
-Lecturer of [SISTor Workshop](https://github.com/vickywu1022/SISTor-Workshop-2022) in Fall 2022.
+Lecturer of SISTor Workshop in Fall 2022.
+
+[(Workshop Materials)](https://github.com/vickywu1022/SISTor-Workshop-2022)
 
 Target
 ======
