@@ -17,8 +17,6 @@ Education
 * M.E. in Computer Science and Technology, Shanghai Jiaotong University, 2023-2026 (estimated)
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2019-2023
 
-(To be continue...🏗)
-
 # Publications
 
 - **Weiqi Wu**, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu, "[Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173.pdf)". In *the 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023)*, Toronto, Canada, July 9-14, 2023. **(Outstanding Paper Award)**
