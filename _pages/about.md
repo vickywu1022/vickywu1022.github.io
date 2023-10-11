@@ -17,7 +17,7 @@ Education
 * M.E. in Computer Science and Technology, Shanghai Jiao Tong University, 2023.09-2026.03 (estimated)
 
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2019.09-2023.06
-  * Sharing: [Graduate Stories | Weiqi Wu: Life is a wildness, not a track](https://www.shanghaitech.edu.cn/eng/2023/0706/c1260a1079163/page.htm)
+  * Sharing: [Graduate Stories｜Weiqi Wu: Life is a wildness, not a track](https://www.shanghaitech.edu.cn/eng/2023/0706/c1260a1079163/page.htm)
   
 
 # Publications
