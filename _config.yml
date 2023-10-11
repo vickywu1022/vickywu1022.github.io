@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Weiqi Wu"
+title                    : "Weiqi Wu | Shanghai Jiao Tong University"
 title_separator          : "-"
 name                     : &name "Weiqi Wu"
 description              : &description "she/her, CS/AI/NLPer@SJTU"
