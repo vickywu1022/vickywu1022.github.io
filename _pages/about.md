@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Weiqi (Vicky) Wu, a first-year postgraduate student majored in computer science at the school of electronic information and electircal engineering, Shanghai Jiao Tong University.
 
-My research interests are about natural language processing and knowledge graph, including <u>knowledge probing, information extraction and <u>KG-based recommendation system</u>. Recently, I've been looking into <u>model compression</u> techniques. Through all my research projects and participation in workshops, contests and conferences, I have gained invaluable knowledge and committed to continuous exploration in these evolving fields.
+My research interests are about natural language processing and knowledge graph, including **knowledge probing, information extraction and KG-based recommendation system**. Recently, I've been looking into **model compression** techniques. Through all my research projects and participation in workshops, contests and conferences, I have gained invaluable knowledge and committed to continuous exploration in these evolving fields.
 
 Education
 ======
