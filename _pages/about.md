@@ -12,7 +12,7 @@ Hi! I'm Weiqi (Vicky) Wu, a first year graduate student majored in computer scie
 
 My research interests are about natural language processing and knowledge graph, including **knowledge probing, information extraction and KG-based recommendation system**. Through all my research projects and participation in workshops, contests and conferences, I have gained invaluable knowledge and committed to continuous exploration in these evolving fields.
 
-[LATEST] My new publication about LLM-based interactive drama is accepted at ACL 2024 Findings. See you in Bangkok!
+[LATEST] My new work about LLM-based interactive drama is accepted at ACL 2024 Findings. See you in Bangkok!
 
 Education
 ======
