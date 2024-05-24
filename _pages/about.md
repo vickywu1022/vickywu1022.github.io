@@ -24,7 +24,14 @@ Education
 
 # Publications
 
-- **Weiqi Wu**, Hongqiu Wu, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang, "From Role-Play to Drama-Interaction: An LLM Solution" In *the Findings of 62th Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings)*, Bangkok, Thailand, August 11-16, 2024.
+\* Denotes Equal Contribution.
+
+#### 2024
+
+- **Weiqi Wu**\*, Hongqiu Wu\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang, "[From Role-Play to Drama-Interaction: An LLM Solution](https://arxiv.org/abs/2405.14231)" In *the Findings of 62th Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings)*, Bangkok, Thailand, August 11-16, 2024.
+
+#### 2023
+
 - **Weiqi Wu**, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu, "[Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173.pdf)". In *the 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023)*, Toronto, Canada, July 9-14, 2023. **(Outstanding Paper Award)**
 - Haoyi Wu, Wenyang Hui, Yezeng Chen, **Weiqi Wu**, Kewei Tu, and Yi Zhou, "Conic10K: A Challenging Math Problem Understanding and Reasoning Dataset". In Findings of EMNLP, 2023.
 - Chengyue Jiang, Yong Jiang, **Weiqi Wu**, Yuting Zheng, Pengjun Xie, and Kewei Tu, "[COMBO: A Complete Benchmark for Open KG Canonicalization](https://aclanthology.org/2023.eacl-main.26.pdf)". In *the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)*, May 2–6, 2023.
