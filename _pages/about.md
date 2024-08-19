@@ -42,7 +42,7 @@ Education
 # Awards
 
 - ACL 2023 Outstanding Paper
-- IndySCC (Student SuperComputing) 2022 Champion: [Link](https://sc22.supercomputing.org/program/studentssc/indyscc/)
+- [IndySCC](https://sc22.supercomputing.org/program/studentssc/indyscc/) (Student SuperComputing) 2022 Champion
 - Principal Award of ShanghaiTech University
 - Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
 
