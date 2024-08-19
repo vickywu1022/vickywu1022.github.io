@@ -33,7 +33,7 @@ Education
 #### 2023
 
 - **Weiqi Wu**, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu, "[Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173.pdf)". In *the 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023)*, Toronto, Canada, July 9-14, 2023. **(Outstanding Paper Award)**
-- Haoyi Wu, Wenyang Hui, Yezeng Chen, **Weiqi Wu**, Kewei Tu, and Yi Zhou, "Conic10K: A Challenging Math Problem Understanding and Reasoning Dataset". In  the *Findings of 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings)*, 2023.
+- Haoyi Wu, Wenyang Hui, Yezeng Chen, **Weiqi Wu**, Kewei Tu, and Yi Zhou, "[Conic10K: A Challenging Math Problem Understanding and Reasoning Dataset](https://aclanthology.org/2023.findings-emnlp.427.pdf)". In  the *Findings of 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings)*, 2023.
 - Chengyue Jiang, Yong Jiang, **Weiqi Wu**, Yuting Zheng, Pengjun Xie, and Kewei Tu, "[COMBO: A Complete Benchmark for Open KG Canonicalization](https://aclanthology.org/2023.eacl-main.26.pdf)". In *the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)*, May 2–6, 2023.
 - Chengyue Jiang, Yong Jiang, **Weiqi Wu**, Pengjun Xie, and Kewei Tu, "[Modeling Label Correlations for Ultra-Fine Entity Typing with Neural Pairwise Conditional Random Field](https://aclanthology.org/2022.emnlp-main.459.pdf)". In *the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*, December 7–11, 2022.
 
