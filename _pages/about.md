@@ -27,7 +27,7 @@ Education
 #### 2024
 
 - **Weiqi Wu**\*, Hongqiu Wu\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang, "[From Role-Play to Drama-Interaction: An LLM Solution](https://arxiv.org/abs/2405.14231)" In *the Findings of 62th Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings)*, Bangkok, Thailand, August 11-16, 2024. 
-- **Weiqi Wu**, Hongqiu Wu, Hai Zhao, "[Self-Directed Turing Test for Large Language Models]()".
+- **Weiqi Wu**, Hongqiu Wu, Hai Zhao, "[Self-Directed Turing Test for Large Language Models](http://arxiv.org/abs/2408.09853)".
 - Hongqiu Wu, Zekai Xu, Tianyang Xu, Jiale Hong, **Weiqi Wu**, Hai Zhao, Min Zhang, Zhezhi He, "[Scaling Virtual World with Delta-Engine](https://arxiv.org/pdf/2408.05842)".
 
 #### 2023
