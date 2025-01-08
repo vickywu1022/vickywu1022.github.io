@@ -26,7 +26,7 @@ Education
 
 #### 2025
 
-- Weiqi Wu, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Hai Zhao, "[Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization](https://arxiv.org/pdf/2501.00888)".
+- **Weiqi Wu**, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Hai Zhao, "[Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization](https://arxiv.org/pdf/2501.00888)".
 
 #### 2024
 
