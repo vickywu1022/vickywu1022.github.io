@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Weiqi (Vicky) Wu, a second year graduate student majored in computer science at School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. I'm advised by Prof. Hai Zhao.
 
-My research interests are about natural language processing and knowledge graph, including **Agent, RAG, Role-playing LLMs and Knowledge Probing**. I’m also serveing as reviewer for ACL Rolling Review.
+My research interests are about natural language processing and knowledge graph, including **Agent, RAG, Role-playing LLMs and Knowledge Probing**. I’m also serving as reviewer for ACL Rolling Review.
 
 I’m currently working as a Research Intern at Alibaba TongYi Lab, mainly focusing on open-domain RAG Agents. 
 
@@ -24,10 +24,14 @@ Education
 
 # Publications
 
+#### 2025
+
+- Weiqi Wu, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Hai Zhao, "[Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization](https://arxiv.org/pdf/2501.00888)".
+
 #### 2024
 
 - **Weiqi Wu**\*, Hongqiu Wu\*, Lai Jiang, Xingyuan Liu, Jiale Hong, Hai Zhao, Min Zhang, "[From Role-Play to Drama-Interaction: An LLM Solution](https://arxiv.org/abs/2405.14231)" In *the Findings of 62th Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings)*, Bangkok, Thailand, August 11-16, 2024. 
-- **Weiqi Wu**, Hongqiu Wu, Hai Zhao, "[Self-Directed Turing Test for Large Language Models](git config pull.rebase false)".
+- **Weiqi Wu**, Hongqiu Wu, Hai Zhao, "[Self-Directed Turing Test for Large Language Models](https://arxiv.org/pdf/2408.09853)".
 - Hongqiu Wu, Zekai Xu, Tianyang Xu, Jiale Hong, **Weiqi Wu**, Hai Zhao, Min Zhang, Zhezhi He, "[Scaling Virtual World with Delta-Engine](https://arxiv.org/pdf/2408.05842)".
 
 #### 2023
@@ -45,4 +49,5 @@ Education
 - [IndySCC](https://sc22.supercomputing.org/program/studentssc/indyscc/) (Student SuperComputing) 2022 Champion
 - Principal Award of ShanghaiTech University
 - Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+- 2024 BYD Scholarship
 
