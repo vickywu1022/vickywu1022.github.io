@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Weiqi (Vicky) Wu, a second-year graduate student majoring in computer science at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. I'm advised by Prof. Hai Zhao.
+Hi! I'm Weiqi (Vicky) Wu, a second-year master student majoring in computer science at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. I'm advised by Prof. Hai Zhao.
 
 My research interests are about natural language processing and knowledge graph, including **Agent, RAG, Role-playing LLMs and Knowledge Probing**. I’m also serving as a reviewer for ACL Rolling Review. Additionally, I was honored to receive the **ACL 2023 Outstanding Paper** Award, which further fueled my passion for advancing the field. 
 
