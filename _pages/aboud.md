@@ -28,6 +28,7 @@ Education
 
 #### 2025
 
+- **Weiqi Wu**\*, Xin Guan\*, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Jiuxin Cao, Hai Zhao, Jingren Zhou, "[MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability](https://arxiv.org/abs/2505.20285)". [[GitHub](https://github.com/Alibaba-NLP/MaskSearch)]
 - **Weiqi Wu**, Hongqiu Wu, Hai Zhao, "[X-Turing: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents](https://arxiv.org/pdf/2408.09853)". (ACL 2025 Main)
 - **Weiqi Wu**, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Hai Zhao, "[Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization](https://arxiv.org/pdf/2501.00888)" (NAACL 2025 Findings). [[GitHub](https://github.com/Alibaba-NLP/CHRONOS)]
 - Hongqiu Wu, **Weiqi Wu**, Tianyang Xu, Jiameng Zhang, Hai Zhao, "[Towards Enhanced Immersion and Agency for LLM-based Interactive Drama](https://arxiv.org/pdf/2502.17878)". (ACL 2025 Main)
@@ -40,7 +41,7 @@ Education
 
 #### 2023
 
-- **Weiqi Wu**, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu, "[Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173.pdf)". In *the 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023)*, Toronto, Canada, July 9-14, 2023. **(🏆 Outstanding Paper Award) **[[GitHub](https://github.com/vickywu1022/OntoProbe-PLMs)]
+- **Weiqi Wu**, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu, "[Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173.pdf)". In *the 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023)*, Toronto, Canada, July 9-14, 2023. (🏆 **Outstanding Paper Award**) [[GitHub](https://github.com/vickywu1022/OntoProbe-PLMs)]
 - Haoyi Wu, Wenyang Hui, Yezeng Chen, **Weiqi Wu**, Kewei Tu, and Yi Zhou, "[Conic10K: A Challenging Math Problem Understanding and Reasoning Dataset](https://aclanthology.org/2023.findings-emnlp.427.pdf)". In  the *Findings of 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings)*, 2023.
 - Chengyue Jiang, Yong Jiang, **Weiqi Wu**, Yuting Zheng, Pengjun Xie, and Kewei Tu, "[COMBO: A Complete Benchmark for Open KG Canonicalization](https://aclanthology.org/2023.eacl-main.26.pdf)". In *the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)*, May 2–6, 2023.
 - Chengyue Jiang, Yong Jiang, **Weiqi Wu**, Pengjun Xie, and Kewei Tu, "[Modeling Label Correlations for Ultra-Fine Entity Typing with Neural Pairwise Conditional Random Field](https://aclanthology.org/2022.emnlp-main.459.pdf)". In *the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*, December 7–11, 2022.
