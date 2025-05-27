@@ -12,7 +12,7 @@ Hi! I'm Weiqi (Vicky) Wu, a second-year master student majoring in computer scie
 
 My research interests are about natural language processing and knowledge graph, including **Agent, RAG, Role-playing LLMs and Knowledge Probing**. I’m also serving as a reviewer for ACL Rolling Review. Additionally, I was honored to receive the **ACL 2023 Outstanding Paper Award 🏆**, which further fueled my passion for advancing the field. 
 
-During the past year, I worked as a Research Intern at Alibaba TongYi Lab, focusing on open-domain RAG and reasoning & search agents. Currently, I am interning at ByteDance’s Data team as part of the *JinDouYun* project, where I am primarily working on applying LLMs to personalized recommendations in the DouBao APP. 
+During the past year, I worked as a Research Intern at Alibaba TongYi Lab, focusing on open-domain RAG and reasoning & search agents. Currently, I am interning at ByteDance’s Data team as part of the *JinDouYun project ☁️*, where I am primarily working on applying LLMs to personalized recommendations in the DouBao APP. 
 
 I will graduate in March 2026 and am actively seeking fall recruitment opportunities related to LLMs.
 
