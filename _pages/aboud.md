@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Weiqi (Vicky) Wu, a second-year master student majoring in computer science at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. I'm advised by Prof. Hai Zhao.
 
-My research interests are about natural language processing and knowledge graph, including **Agent, RAG, Role-playing LLMs and Knowledge Probing**. I’m also serving as a reviewer for ACL Rolling Review. Additionally, I was honored to receive the **ACL 2023 Outstanding Paper** Award, which further fueled my passion for advancing the field. 
+My research interests are about natural language processing and knowledge graph, including **Agent, RAG, Role-playing LLMs and Knowledge Probing**. I’m also serving as a reviewer for ACL Rolling Review. Additionally, I was honored to receive the **ACL 2023 Outstanding Paper Award 🏆**, which further fueled my passion for advancing the field. 
 
 During the past year, I worked as a Research Intern at Alibaba TongYi Lab, focusing on open-domain RAG and reasoning & search agents. Currently, I am interning at ByteDance’s Data team as part of the *JinDouYun* project, where I am primarily working on applying LLMs to personalized recommendations in the DouBao APP. 
 
@@ -41,7 +41,7 @@ Education
 
 #### 2023
 
-- **Weiqi Wu**, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu, "[Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173.pdf)". In *the 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023)*, Toronto, Canada, July 9-14, 2023. (🏆 **Outstanding Paper Award**) [[GitHub](https://github.com/vickywu1022/OntoProbe-PLMs)]
+- **Weiqi Wu**, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu, "[Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173.pdf)". In *the 61th Annual Meeting of the Association for Computational Linguistics (ACL 2023)*, Toronto, Canada, July 9-14, 2023. (**Outstanding Paper Award 🏆**) [[GitHub](https://github.com/vickywu1022/OntoProbe-PLMs)]
 - Haoyi Wu, Wenyang Hui, Yezeng Chen, **Weiqi Wu**, Kewei Tu, and Yi Zhou, "[Conic10K: A Challenging Math Problem Understanding and Reasoning Dataset](https://aclanthology.org/2023.findings-emnlp.427.pdf)". In  the *Findings of 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings)*, 2023.
 - Chengyue Jiang, Yong Jiang, **Weiqi Wu**, Yuting Zheng, Pengjun Xie, and Kewei Tu, "[COMBO: A Complete Benchmark for Open KG Canonicalization](https://aclanthology.org/2023.eacl-main.26.pdf)". In *the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)*, May 2–6, 2023.
 - Chengyue Jiang, Yong Jiang, **Weiqi Wu**, Pengjun Xie, and Kewei Tu, "[Modeling Label Correlations for Ultra-Fine Entity Typing with Neural Pairwise Conditional Random Field](https://aclanthology.org/2022.emnlp-main.459.pdf)". In *the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*, December 7–11, 2022.
