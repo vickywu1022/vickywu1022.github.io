@@ -14,7 +14,9 @@ My research interests are about natural language processing and knowledge graph,
 
 During the past year, I worked as a Research Intern at Alibaba TongYi Lab, focusing on open-domain RAG and reasoning & search agents. Currently, I am interning at ByteDance’s Data team as part of the *JinDouYun* talent program, where I am primarily working on applying LLMs to personalized recommendations in the DouBao APP. 
 
-I will graduate in March 2026 and am actively seeking fall recruitment opportunities related to LLMs.
+Graduating in March 2026, I am actively seeking fall recruitment opportunities related to LLMs and Agents.
+
+Moreover, I will be presenting our paper about [X-Turing](https://arxiv.org/pdf/2408.09853) at ACL 2025—see you in Vienna, Austria🇦🇹!
 
 Education
 ======
