@@ -14,7 +14,7 @@ My research interests are about Large Language Models and Agents, including Reas
 
 During the past year, I worked as a Research Intern at Alibaba TongYi Lab, focusing on open-domain RAG and Web Agents. Currently, I am interning at ByteDance’s Data team as part of the *JinDouYun* talent program, where I am primarily working on applying LLMs to personalized recommendations in the DouBao APP. 
 
-Graduating in March 2026, I'm actively seeking opportunities related to LLMs and Agents. I just joined LinkedIn so 👉 [Let's connect !](linkedin.com/in/weiqi-wu-08337a34b) 
+Graduating in March 2026, I'm actively seeking opportunities related to LLMs and Agents. I just joined LinkedIn so 👉 [Let's connect !](https://linkedin.com/in/weiqi-wu-08337a34b) 
 
 Education
 ======
@@ -31,8 +31,9 @@ Education
 - **Weiqi Wu**\*, Xin Guan\*, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Jiuxin Cao, Hai Zhao, Jingren Zhou, "[MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability](https://arxiv.org/abs/2505.20285)". [[GitHub](https://github.com/Alibaba-NLP/MaskSearch)]
 - **[ACL 2025]** **Weiqi Wu**, Hongqiu Wu, Hai Zhao, "[X-Turing: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents](https://aclanthology.org/2025.acl-long.293/)". In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics*, Vienna, Austria, 2025.
 - **[NAACL 2025]** **Weiqi Wu**, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Hai Zhao, "[Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization](https://aclanthology.org/2025.findings-naacl.248/)". In the *Findings of the Association for Computational Linguistics: NAACL 2025*. [[GitHub](https://github.com/Alibaba-NLP/CHRONOS)]
-- **[ACL 2025]** Hongqiu Wu, **Weiqi Wu**, Tianyang Xu, Jiameng Zhang, Hai Zhao, "[Towards Enhanced Immersion and Agency for LLM-based Interactive Drama]()". In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics*, Vienna, Austria, 2025. [[GitHub](https://github.com/gingasan/interactive-drama)]
+- **[ACL 2025]** Hongqiu Wu, **Weiqi Wu**, Tianyang Xu, Jiameng Zhang, Hai Zhao, "[Towards Enhanced Immersion and Agency for LLM-based Interactive Drama](https://aclanthology.org/2025.acl-long.546/)". In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics*, Vienna, Austria, 2025. [[GitHub](https://github.com/gingasan/interactive-drama)]
 - **[EMNLP 2025]** Qiuchen Wang, Ruixue Ding, Zehui Chen, **Weiqi Wu**, Shihang Wang, Pengjun Xie, Feng Zhao, "[ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](https://arxiv.org/pdf/2502.18017)". In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, 2025. [[GitHub](https://github.com/Alibaba-NLP/ViDoRAG)]
+- **[EMNLP 2025 Demo]** Tianyang Xu*, Hongqiu Wu*, **Weiqi Wu**, Hai Zhao. "[Open-Theatre: An Open-Source Toolkit for LLM-based Interactive Drama]()"
 
 #### 2024
 
@@ -54,7 +55,7 @@ Education
 - [IndySCC](https://sc22.supercomputing.org/program/studentssc/indyscc/) (Student SuperComputing) 2022 Champion
 - Principal Award of ShanghaiTech University
 - Second Prize of the Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
-- 2024 BYD Scholarship
+- BYD Scholarship 2024
 
 # Internships
 
