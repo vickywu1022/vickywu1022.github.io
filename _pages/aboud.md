@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Weiqi (Vicky) Wu, a second-year master student majoring in computer science at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. I'm advised by Prof. Hai Zhao.
+Hi! I'm Weiqi (Vicky) Wu, a CS Master's student at the School of Computer Science, Shanghai Jiao Tong University, advised by Prof. Hai Zhao.
 
-My research interests are about Large Language Models and Agents, including Reasoning, RAG, Role-playing LLMs and Knowledge Probing. I’m also serving as a reviewer for ACL Rolling Review. Additionally, I am honored to receive the **ACL 2023 Outstanding Paper Award 🏆**, which further fuels my passion for advancing the field. 
+I'm passionate about pushing the boundaries of Large Language Models and Agents. My expertise spans Reasoning, RAG, Role-playing LLMs, and Knowledge Probing. I am honored to have received the **ACL 2023 Outstanding Paper Award 🏆**, which further fuels my passion for advancing the field. 
 
-During the past year, I worked as a Research Intern at Alibaba TongYi Lab, focusing on open-domain RAG and Web Agents. Currently, I am interning at ByteDance’s Data team as part of the *JinDouYun* talent program, where I am primarily working on applying LLMs to personalized recommendations in the DouBao APP. 
+Currently, I am interning at **ByteDance Seed Team**, where I focus on foundation models and global applications. Previously, I worked within ByteDance’s Data team as part of the *JinDouYun* talent program on personalized recommendations for the DouBao APP and interned at Alibaba TongYi Lab focusing on open-domain RAG and Web Agents.
 
-Graduating in March 2026, I'm actively seeking opportunities related to LLMs and Agents. I just joined LinkedIn so 👉 [Let's connect !](https://linkedin.com/in/weiqi-wu-08337a34b) 
+🎓 **Seeking 2026 Opportunities**: I graduate in March 2026 and am eager to connect with teams working on the next generation of LLMs and Agents. I just joined LinkedIn so 👉 [Let's connect !](https://linkedin.com/in/weiqi-wu-08337a34b) 
 
 Education
 ======
@@ -59,6 +59,6 @@ Education
 
 # Internships
 
-- Alibaba Tongyi Lab, 2024.06-2025.04
 - ByteDance, 2025.04 to present
+- Alibaba Tongyi Lab, 2024.06-2025.04
 - Microsoft Research Asia, 2021.07-2021.10
