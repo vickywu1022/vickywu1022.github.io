@@ -12,7 +12,7 @@ Hi! I'm Weiqi (Vicky) Wu, a CS Master's student at the School of Computer Scienc
 
 I'm passionate about pushing the boundaries of Large Language Models and Agents. My expertise spans Reasoning, RAG, Role-playing LLMs, and Knowledge Probing. I am honored to have received the **ACL 2023 Outstanding Paper Award 🏆**, which further fuels my passion for advancing the field. 
 
-Currently, I am interning at **ByteDance Seed Team**, where I focus on foundation models and global applications. Previously, I worked within ByteDance’s Data team as part of the *JinDouYun* talent program on personalized recommendations for the DouBao APP and interned at Alibaba TongYi Lab focusing on open-domain RAG and Web Agents.
+Currently, I am interning at **ByteDance Seed**, where I focus on foundation models and global applications. Previously, I worked within ByteDance’s Data team as part of the *JinDouYun* talent program on personalized recommendations for the DouBao APP and interned at Alibaba TongYi Lab focusing on open-domain RAG and Web Agents.
 
 🎓 **Seeking 2026 Opportunities**: I graduate in March 2026 and am eager to connect with teams working on the next generation of LLMs and Agents. I just joined LinkedIn so 👉 [Let's connect !](https://linkedin.com/in/weiqi-wu-08337a34b) 
 
