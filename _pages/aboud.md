@@ -53,6 +53,7 @@ Education
 
 - ACL 2023 Outstanding Paper
 - [IndySCC](https://sc22.supercomputing.org/program/studentssc/indyscc/) (Student SuperComputing) 2022 Champion
+- National Scholarship 2025
 - Principal Award of ShanghaiTech University
 - Second Prize of the Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
 - BYD Scholarship 2024
@@ -62,3 +63,8 @@ Education
 - ByteDance, 2025.04 to present
 - Alibaba Tongyi Lab, 2024.06-2025.04
 - Microsoft Research Asia, 2021.07-2021.10
+
+# Miscellaneous
+
+- Beyond academia, I am a member of the **Jiangsu Writers’ Association**. I have a long-standing interest in reading and writing prose poetry, with a particular appreciation for modern Chinese poetry. My favourite poets include [Zhang Zao](https://en.wikipedia.org/wiki/Zhang_Zao) and [Hai Zi](https://en.wikipedia.org/wiki/Hai_Zi).
+- Although not particularly athletic, I am an avid follower of competitive sports like Formula 1. I support Red Bull Racing and Max Verstappen. That is, *No Risk, Full Push!*
