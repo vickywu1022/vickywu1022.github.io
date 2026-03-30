@@ -17,7 +17,7 @@ My research focuses on advancing Large Language Models and Agents, with particul
 
 Currently, I am working at **ByteDance Seed-LLM**, where I focus on foundation models and global applications. Previously, I interned at ByteDance’s Data team as part of the *JinDouYun* talent program on personalized recommendations for the DouBao APP, and at Alibaba TongYi Lab focusing on open-domain RAG and Web Agents.
 
-🎓 I am eager to connect with researchers and developers working on the next generation of LLMs and Agents. 👉 [Let's connect !](https://linkedin.com/in/weiqi-wu-08337a34b)
+I have joined Linkedin recently and am eager to connect with researchers and developers working on the next generation of LLMs and Agents. 👉 [Let's connect !](https://linkedin.com/in/weiqi-wu-08337a34b)
 
 # Education
 
