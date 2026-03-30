@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Weiqi (Vicky) Wu, a CS Master's student at the School of Computer Science, Shanghai Jiao Tong University, advised by Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/).
 
-My research focuses on advancing Large Language Models and Agents, with particular expertise in Reasoning, RAG, Role-playing LLMs, and Knowledge Probing. Notably, my very first first-author paper received the **ACL 2023 Outstanding Paper Award 🏆**.
+My research focuses on advancing Large Language Models and Agents, with particular expertise in Reasoning, RAG, Role-playing LLMs, and Knowledge Probing. Notably, my first paper received the **ACL 2023 Outstanding Paper Award 🏆**.
 
 Currently, I am working at **ByteDance Seed-LLM**, where I focus on foundation models and global applications. Previously, I interned at ByteDance’s Data team as part of the *JinDouYun* talent program on personalized recommendations for the DouBao APP, and at Alibaba TongYi Lab focusing on open-domain RAG and Web Agents.
 
