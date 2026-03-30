@@ -1,15 +1,12 @@
-***
-
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
-author\_profile: true
-redirect\_from:
-
-- /about/
-- /about.html
-
-***
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Hi! I'm Weiqi (Vicky) Wu, a CS Master's student at the School of Computer Science, Shanghai Jiao Tong University, advised by Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/).
 
