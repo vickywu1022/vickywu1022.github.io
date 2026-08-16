@@ -14,12 +14,6 @@ My interests lie in large language models and agents, particularly post-training
 
 I am always happy to connect with researchers and developers working on the next generation of LLMs and agents. [Let's connect on LinkedIn →](https://linkedin.com/in/weiqi-wu-08337a34b)
 
-# Education
-
-- **M.E. in Computer Science and Technology**, Shanghai Jiao Tong University, 2023.09–2026.03<br>
-  Advised by Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/).
-- **B.E. in Computer Science and Technology**, ShanghaiTech University, 2019.09–2023.06
-  <br>Advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
 
 # Work Experience
 
