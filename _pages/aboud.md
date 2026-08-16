@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Weiqi (Vicky) Wu. I am currently a Research Engineer at **ByteDance Seed**, working on LLM post-training. I received my M.E. in Computer Science and Technology from Shanghai Jiao Tong University, where I was advised by Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/).
+Hi! I'm Weiqi (Vicky) Wu. I am currently a Research Engineer at **ByteDance Seed**, working on LLM post-training. I received my M.E. in Computer Science and Technology from Shanghai Jiao Tong University, where I was advised by Prof. Hai Zhao.
 
 My interests lie in large language models and agents, particularly post-training, reinforcement learning, reasoning, agentic search, and role-playing agents. My work has been published at ACL / EMNLP / NAACL, and my first-author paper received the **ACL 2023 Outstanding Paper Award 🏆**.
 
 I am always happy to connect with researchers and developers working on the next generation of LLMs and agents. [Let's connect on LinkedIn →](https://linkedin.com/in/weiqi-wu-08337a34b)
+
+# Education
+
+- **M.E. in Computer Science and Technology**, Shanghai Jiao Tong University, 2023.09–2026.03<br>
+  Advised by Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/).
+- **B.E. in Computer Science and Technology**, ShanghaiTech University, 2019.09–2023.06
+  <br>Advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
 
 # Work Experience
 
@@ -65,10 +72,30 @@ I am always happy to connect with researchers and developers working on the next
 
 # Education
 
-- **M.E. in Computer Science and Technology**, Shanghai Jiao Tong University, 2023–2026<br>
-  Advised by Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/).
-- **B.E. in Computer Science and Technology**, ShanghaiTech University, 2019–2023
-  <br>Advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
+<div class="experience-list education-list">
+  <article class="experience-item experience-item--featured education-item">
+    <div class="experience-heading">
+      <div class="experience-company education-company">
+        <img src="{{ '/assets/images/sjtu.png' | relative_url }}" alt="Shanghai Jiao Tong University logo">
+        <strong>Shanghai Jiao Tong University</strong>
+      </div>
+      <span>2023 – 2026</span>
+    </div>
+    <div class="experience-role">M.E. in Computer Science and Technology</div>
+    <p>Advised by Prof. <a href="https://bcmi.sjtu.edu.cn/home/zhaohai/">Hai Zhao</a>.</p>
+  </article>
+  <article class="experience-item education-item">
+    <div class="experience-heading">
+      <div class="experience-company education-company">
+        <img src="{{ '/assets/images/shanghaitech.png' | relative_url }}" alt="ShanghaiTech University logo">
+        <strong>ShanghaiTech University</strong>
+      </div>
+      <span>2019 – 2023</span>
+    </div>
+    <div class="experience-role">B.E. in Computer Science and Technology</div>
+    <p>Advised by Prof. <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/">Kewei Tu</a>.</p>
+  </article>
+</div>
 
 # Publications
 
