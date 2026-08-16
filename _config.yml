@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Weiqi Wu's Homepage"
 title_separator          : "-"
 name                     : &name "Weiqi Wu"
-description              : &description "she/her, CS/AI/NLPer@SJTU"
+description              : &description "she/her · LLM Post-training @ ByteDance Seed"
 url                      : https://vickywu1022.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vickywu1022/vickywu1022.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weiqi Wu"
   avatar           : "profile.png"
-  bio              : "she/her, CS/AI/NLPer@SJTU"
+  bio              : "she/her<br>LLM Post-training @ ByteDance Seed"
   location         : "Shanghai, China"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
