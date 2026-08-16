@@ -26,7 +26,7 @@ I am always happy to connect with researchers and developers working on the next
       </div>
       <span>March 2026 – Present</span>
     </div>
-    <div class="experience-role">LLM Post-training · Full-time</div>
+    <div class="experience-role">Full-time · LLM Post-training</div>
     <p>Working on post-training large language models and agents, with a focus on reinforcement learning, reward modeling, agentic capabilities, and global applications.</p>
   </article>
   <article class="experience-item">
@@ -37,7 +37,7 @@ I am always happy to connect with researchers and developers working on the next
       </div>
       <span>April 2025 – March 2026</span>
     </div>
-    <div class="experience-role">AI Recommendation · Research Intern</div>
+    <div class="experience-role">Research Intern · AI Recommendation</div>
     <p>Worked on personalized conversation recommendation and long-term memory modeling for DouBao as part of the <em>Jin Dou Yun</em> talent program.</p>
   </article>
   <article class="experience-item experience-item--featured">
@@ -48,7 +48,7 @@ I am always happy to connect with researchers and developers working on the next
       </div>
       <span>June 2024 – April 2025</span>
     </div>
-    <div class="experience-role">Research Intern</div>
+    <div class="experience-role">Research Intern · NLP & DeepResearch</div>
     <p>Worked on deep research agents and open-domain retrieval-augmented generation.</p>
   </article>
   <article class="experience-item">
@@ -59,7 +59,7 @@ I am always happy to connect with researchers and developers working on the next
       </div>
       <span>July 2021 – October 2021</span>
     </div>
-    <div class="experience-role">Research Intern</div>
+    <div class="experience-role">Research Intern · NLP</div>
     <p>Worked on natural language processing and news recommendation.</p>
   </article>
 </div>
@@ -73,7 +73,7 @@ I am always happy to connect with researchers and developers working on the next
         <img src="{{ '/assets/images/sjtu.png' | relative_url }}" alt="Shanghai Jiao Tong University logo">
         <strong>Shanghai Jiao Tong University</strong>
       </div>
-      <span>2023 – 2026</span>
+      <span>2023.09 – 2026.03</span>
     </div>
     <div class="experience-role">M.E. in Computer Science and Technology</div>
     <p>Advised by Prof. <a href="https://bcmi.sjtu.edu.cn/home/zhaohai/">Hai Zhao</a>.</p>
@@ -84,7 +84,7 @@ I am always happy to connect with researchers and developers working on the next
         <img src="{{ '/assets/images/shanghaitech.png' | relative_url }}" alt="ShanghaiTech University logo">
         <strong>ShanghaiTech University</strong>
       </div>
-      <span>2019 – 2023</span>
+      <span>2019.09 – 2023.06</span>
     </div>
     <div class="experience-role">B.E. in Computer Science and Technology</div>
     <p>Advised by Prof. <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/">Kewei Tu</a>.</p>
