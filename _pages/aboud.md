@@ -20,18 +20,16 @@ I am always happy to connect with researchers and developers working on the next
   <article class="experience-item experience-item--featured">
     <div class="experience-heading">
       <div class="experience-company">
-        <img src="https://cdn.simpleicons.org/bytedance/3C8CFF" alt="ByteDance logo">
-        <strong>ByteDance</strong>
+        <strong>ByteDance Seed </strong>
       </div>
       <span>March 2026 – Present</span>
     </div>
-    <div class="experience-role">Seed · LLM Post-training · Full-time</div>
+    <div class="experience-role">LLM Post-training · Full-time</div>
     <p>Working on post-training large language models and agents, with a focus on reinforcement learning, reward modeling, agentic capabilities, and global applications.</p>
   </article>
   <article class="experience-item">
     <div class="experience-heading">
       <div class="experience-company">
-        <img src="https://cdn.simpleicons.org/bytedance/3C8CFF" alt="ByteDance logo">
         <strong>ByteDance</strong>
       </div>
       <span>April 2025 – March 2026</span>
@@ -42,7 +40,6 @@ I am always happy to connect with researchers and developers working on the next
   <article class="experience-item experience-item--featured">
     <div class="experience-heading">
       <div class="experience-company">
-        <img src="https://cdn.simpleicons.org/alibabacloud/FF6A00" alt="Alibaba logo">
         <strong>Alibaba Tongyi Lab</strong>
       </div>
       <span>June 2024 – April 2025</span>
@@ -53,7 +50,6 @@ I am always happy to connect with researchers and developers working on the next
   <article class="experience-item">
     <div class="experience-heading">
       <div class="experience-company">
-        <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" alt="Microsoft logo">
         <strong>Microsoft Research Asia</strong>
       </div>
       <span>July 2021 – October 2021</span>
@@ -73,7 +69,7 @@ I am always happy to connect with researchers and developers working on the next
 # Publications
 
 - 🏆 **Outstanding Paper Award** · **\[ACL 2023]** **Weiqi Wu**, Chengyue Jiang, Yong Jiang, Pengjun Xie and Kewei Tu, "[Do PLMs Know and Understand Ontological Knowledge?](https://aclanthology.org/2023.acl-long.173.pdf)". In *the 61th Annual Meeting of the Association for Computational Linguistics*, Toronto, Canada, July 9-14, 2023. \[[GitHub](https://github.com/vickywu1022/OntoProbe-PLMs)]
-- 🗣 **Oral Presentation** · **[ACL 2026 Industry]** **Weiqi Wu**, et al., "[ACL 2026 Industry Track paper](https://aclanthology.org/2026.acl-industry.16/)".
+- 🗣 **Oral Presentation** · **\[ACL 2026 Industry]** Hongwei Zheng, **Weiqi Wu**, Zhengjia Wang, Guanyu Jiang, Haoming Li, Tianyu Wu, Yongchun Zhu, Jingwu Chen, and Feng Zhang, "[IceBreaker for Conversational Agents: Breaking the First-Message Barrier with Personalized Starters](https://aclanthology.org/2026.acl-industry.16/)". In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track)*, pages 230–241, San Diego, California, USA, 2026. Association for Computational Linguistics.
 - **\[ACL 2025]** **Weiqi Wu**, Hongqiu Wu, Hai Zhao, "[X-Turing: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents](https://aclanthology.org/2025.acl-long.293/)". In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics*, Vienna, Austria, 2025.
 - **\[NAACL 2025]** **Weiqi Wu**, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Hai Zhao, "[Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization](https://aclanthology.org/2025.findings-naacl.248/)". In the *Findings of the Association for Computational Linguistics: NAACL 2025*. \[[GitHub](https://github.com/Alibaba-NLP/CHRONOS)]
 - **Weiqi Wu**\*, Xin Guan\*, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Jiuxin Cao, Hai Zhao, Jingren Zhou, "[MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability](https://arxiv.org/abs/2505.20285)". \[[GitHub](https://github.com/Alibaba-NLP/MaskSearch)]
