@@ -24,7 +24,7 @@ I am always happy to connect with researchers and developers working on the next
         <img src="https://cdn.simpleicons.org/bytedance/3C8CFF" alt="ByteDance logo">
         <strong>ByteDance Seed</strong>
       </div>
-      <span>March 2026 – Present</span>
+      <span>December 2025 – Present</span>
     </div>
     <div class="experience-role">Full-time · LLM Post-training</div>
     <p>Working on post-training large language models and agents, with a focus on reinforcement learning, reward modeling, agentic capabilities, and global applications.</p>
@@ -35,7 +35,7 @@ I am always happy to connect with researchers and developers working on the next
         <img src="https://cdn.simpleicons.org/bytedance/3C8CFF" alt="ByteDance logo">
         <strong>ByteDance</strong>
       </div>
-      <span>April 2025 – March 2026</span>
+      <span>April 2025 – November 2025</span>
     </div>
     <div class="experience-role">Research Intern · AI Recommendation</div>
     <p>Worked on personalized conversation recommendation and long-term memory modeling for DouBao as part of the <em>Jin Dou Yun</em> talent program.</p>
@@ -73,7 +73,7 @@ I am always happy to connect with researchers and developers working on the next
         <img src="{{ '/assets/images/sjtu.png' | relative_url }}" alt="Shanghai Jiao Tong University logo">
         <strong>Shanghai Jiao Tong University</strong>
       </div>
-      <span>2023.09 – 2026.03</span>
+      <span>September 2023 – March 2026</span>
     </div>
     <div class="experience-role">M.E. in Computer Science and Technology</div>
     <p>Advised by Prof. <a href="https://bcmi.sjtu.edu.cn/home/zhaohai/">Hai Zhao</a>.</p>
@@ -84,7 +84,7 @@ I am always happy to connect with researchers and developers working on the next
         <img src="{{ '/assets/images/shanghaitech.png' | relative_url }}" alt="ShanghaiTech University logo">
         <strong>ShanghaiTech University</strong>
       </div>
-      <span>2019.09 – 2023.06</span>
+      <span>September 2019 – June 2023</span>
     </div>
     <div class="experience-role">B.E. in Computer Science and Technology</div>
     <p>Advised by Prof. <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/">Kewei Tu</a>.</p>
